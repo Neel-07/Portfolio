@@ -29,7 +29,7 @@ My online portfolio demonstrates the combination of design and functionality. Th
 
 Feel free to reach out to me for any inquiries, collaboration opportunities, or just to say hello. You can connect with me through the following channels:
 
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/NeelMishra)
+- **LinkedIn:** [Your Name]([https://www.linkedin.com/in/neel-mishra-59ab07239/)].
 - **GitHub:** [YourGitHubUsername](https://github.com/Neel-07)
 
 Thank you for visiting my portfolio website!
